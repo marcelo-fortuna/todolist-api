@@ -31,7 +31,7 @@ public class TaskModel {
     private String description;
     @Column(length = 50)
     private String title;
-    private LocalDateTime startAt;
+    private LocalDateTime startAt; // yyyy-mm-ddTHH:mm:ss
     private LocalDateTime endAt;
     private String priority;
 
