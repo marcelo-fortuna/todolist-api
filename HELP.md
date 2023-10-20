@@ -1,17 +1,17 @@
-# Getting Started
+# Começando
 
-### Reference Documentation
+### Documentação de refêrencia
 For further reference, please consider the following sections:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.11/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.11/maven-plugin/reference/html/#build-image)
+* [Documentação oficial do Apache Maven](https://maven.apache.org/guides/index.html)
+* [Guia de referência do plugin Maven com Spring Boot](https://docs.spring.io/spring-boot/docs/3.0.11/maven-plugin/reference/html/)
+* [Crie uma imagem OCI](https://docs.spring.io/spring-boot/docs/3.0.11/maven-plugin/reference/html/#build-image)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/3.0.11/reference/htmlsingle/index.html#web)
 
-### Guides
-The following guides illustrate how to use some features concretely:
+### Guias
+Os guias a seguir ilustram como usar alguns recursos concretamente:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
+* [Construindo um serviço Web RESTful](https://spring.io/guides/gs/rest-service/)
+* [Servindo conteúdo da Web com Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+* [Construindo serviços REST com Spring](https://spring.io/guides/tutorials/rest/)
 
