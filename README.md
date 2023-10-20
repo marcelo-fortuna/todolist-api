@@ -15,4 +15,4 @@ Aplicação desenvolvida para gerenciar tarefas com base no curso de Java com Sp
 - [Spring Boot](https://start.spring.io/);
 - Rest Client de sua escolha (para os testes foi utilizado o [API Dog](https://apidog.com/download/))
 - [H2 Database](http://www.h2database.com/html/download.html) (ou um banco de dados de sua prefêrencia) como um banco de dados que roda na memória;
-- [Render](https://dashboard.render.com/) para deploy da aplicação utilizando o [Dockerfile](https://github.com/marcelo-fortuna/todolist/blob/main/Dockerfile).
+- [Render](https://dashboard.render.com/) para _deploy_ da aplicação utilizando o [Dockerfile](https://github.com/marcelo-fortuna/todolist/blob/main/Dockerfile).
